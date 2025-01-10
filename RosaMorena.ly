@@ -2,6 +2,9 @@
   title = "Rosa Morena"
   composer = "Dorival Caymmi"
 }
+\paper{
+left-margin = 0\in
+}
 \score{
  \relative c' {
   \time 2/4
